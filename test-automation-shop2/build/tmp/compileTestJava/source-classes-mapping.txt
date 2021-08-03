@@ -1,0 +1,14 @@
+Pages/HomePage.java
+ Pages.HomePage
+TC03_TC04_Login.java
+ TC03_TC04_Login
+Pages/RegistrationPage.java
+ Pages.RegistrationPage
+BaseTest.java
+ BaseTest
+Pages/BasePage.java
+ Pages.BasePage
+TC01_TC02_Registration.java
+ TC01_TC02_Registration
+Pages/LoginPage.java
+ Pages.LoginPage
