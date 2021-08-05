@@ -1,8 +1,16 @@
+import io.qameta.allure.Description;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
+import io.qameta.allure.Story;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
+   @Epic("Your store webshop user using")
+   @Feature("User login")
 public class TC03_TC04_LoginTests extends BaseTest {
 
+    @Story("Successful Login")
+    @Description("Successful user login with valid data")
     @Test
     public void successfulLogin() {
         loginPage.login("tesztelek21@mail.com", "Elek21");
@@ -10,6 +18,8 @@ public class TC03_TC04_LoginTests extends BaseTest {
         assertThat(driver.getTitle()).isEqualTo("My Account");
     }
 
+    @Story("Unsuccessful Login")
+    @Description("Unsuccessful user login with wrong email form")
     @Test
     public void unsuccessfulLogin() {
         loginPage.login("tesztelek21mail.com", "Elek21");

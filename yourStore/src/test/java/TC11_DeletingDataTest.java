@@ -1,10 +1,16 @@
-import Pages.*;
 import static org.assertj.core.api.Assertions.*;
+import io.qameta.allure.Description;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
+import io.qameta.allure.Story;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.support.PageFactory;
 
+    @Epic("Your store webshop user using")
+    @Feature("Data handling")
 public class TC11_DeletingDataTest extends BaseTest{
 
+    @Story("Address delete from user account")
+    @Description("Address delete from a registered user account")
     @Test
     public void deletingAddress(){
         homePage.open();
