@@ -62,5 +62,18 @@ public class RegistrationPage extends BasePage {
     public WebElement getWarningAlreadyRegisteredEmail() {
         return warningAlreadyRegisteredEmail;
     }
+
+    public WebElement getPrivacyPolicyLink() {
+        return privacyPolicyLink;
+    }
+
+    public WebElement getPrivacyPolicyWindowClose() {
+        return privacyPolicyWindowClose;
+    }
+
+    public WebElement getPrivacyPolicyCheckbox() {
+        return privacyPolicyCheckbox;
+    }
 }
+
 

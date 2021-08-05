@@ -1,23 +1,9 @@
-import Pages.HomePage;
-import Pages.RegistrationPage;
 import static org.assertj.core.api.Assertions.*;
-
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.support.PageFactory;
 
-public class TC01_TC02_Registration extends BaseTest {
-    HomePage homePage;
-    RegistrationPage registrationPage;
+public class TC01_TC02_RegistrationTests extends BaseTest {
+
     String email = "tesztelek" + ((int) (Math.random() * 10000)) + "@mail.com";
-
-    @BeforeEach
-    public void setupRegistrationPage() {
-        homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.open();
-        registrationPage = PageFactory.initElements(driver, RegistrationPage.class);
-        registrationPage.open();
-    }
 
     @Test
     public void successfulRegister() {
