@@ -14,31 +14,31 @@ Pages/AddressInputPage.java
  Pages.AddressInputPage
 Pages/BasePage.java
  Pages.BasePage
-TC08_DataInputTest.java
- TC08_DataInputTest
-TC10_ExistingDataModification.java
- TC10_ExistingDataModification
 Pages/AddressBookPage.java
  Pages.AddressBookPage
-TC05_UsingPrivacyStatementTest.java
- TC05_UsingPrivacyStatementTest
-TC06_DataListingTest.java
- TC06_DataListingTest
-TC03_TC04_LoginTests.java
- TC03_TC04_LoginTests
-TC07_PaginationTest.java
- TC07_PaginationTest
+Pages/DesktopsListPage.java
+ Pages.DesktopsListPage
 TC01_TC02_RegistrationTests.java
  TC01_TC02_RegistrationTests
 TC09_RepetitivDataInputTest.java
  TC09_RepetitivDataInputTest
 TC11_DeletingDataTest.java
  TC11_DeletingDataTest
-Pages/DesktopsListPage.java
- Pages.DesktopsListPage
+TC08_DataInputTest.java
+ TC08_DataInputTest
+TC10_ExistingDataModification.java
+ TC10_ExistingDataModification
+TC05_UsingPrivacyStatementTest.java
+ TC05_UsingPrivacyStatementTest
 TC13_LogoutTest.java
  TC13_LogoutTest
+TC06_DataListingTest.java
+ TC06_DataListingTest
 TC12_SavingDataFromApplication.java
  TC12_SavingDataFromApplication
 BaseTest.java
  BaseTest
+TC03_TC04_LoginTests.java
+ TC03_TC04_LoginTests
+TC07_PaginationTest.java
+ TC07_PaginationTest
