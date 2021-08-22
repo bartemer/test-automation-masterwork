@@ -43,7 +43,7 @@ public class AddressInputPage extends BasePage {
     @FindBy(xpath = "//*[@id=\"content\"]/form/div/div[2]/input")
     WebElement continueButton;
 
-    @FindBy(xpath = "//*[@id=\"account-address\"]/div[1]/text()")
+    @FindBy(xpath = "//*[@id=\"account-address\"]/div[1]")
     WebElement successMessage;
 
     @FindBy(xpath = "//tbody/tr[3]/td[2]/a[2]")

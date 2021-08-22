@@ -16,7 +16,7 @@ public class TC08_DataInputTest extends BaseTest{
     public void addNewAddress() {
         homePage.open();
         loginPage.open();
-        loginPage.login("tesztelek21@mail.com", "Elek31");
+        loginPage.login("tesztelek21@mail.com", "Elek21");
         myAccountPage.open();
         myAccountPage.goToAddressBook();
         addressBookPage.open();
@@ -25,8 +25,7 @@ public class TC08_DataInputTest extends BaseTest{
         addressInputPage.addNewAddress("Elek", "Teszt", "Egyenes ter 7", "Budapest",
                 "1143", "Hungary");
 
-        assertThat(addressInputPage.getSuccessMessage().getText())
-                .isEqualTo("Your address has been successfully added");
+        assertThat(addressInputPage.getSuccessMessage().isDisplayed()).isTrue();
     }
 }
 
