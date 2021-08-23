@@ -1,0 +1,66 @@
+{
+  "uid" : "8c67db48c26fd97a",
+  "name" : "goTo2ndPage()",
+  "fullName" : "TC07_PaginationTest.goTo2ndPage",
+  "historyId" : "7a62c770664e00af8f65fa63cd939a7",
+  "time" : {
+    "start" : 1629681968089,
+    "stop" : 1629681969670,
+    "duration" : 1581
+  },
+  "description" : "Listing all products available in webshop using pagination",
+  "descriptionHtml" : "<p>Listing all products available in webshop using pagination</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Data listing"
+  }, {
+    "name" : "epic",
+    "value" : "Your store webshop user using"
+  }, {
+    "name" : "story",
+    "value" : "Listing more products using pagination"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "8684@MSI.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TC07_PaginationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TC07_PaginationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "goTo2ndPage"
+  }, {
+    "name" : "suite",
+    "value" : "TC07_PaginationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c67db48c26fd97a.json",
+  "parameterValues" : [ ]
+}

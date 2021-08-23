@@ -13,6 +13,8 @@ public class TC03_TC04_LoginTests extends BaseTest {
     @Description("Successful user login with valid data")
     @Test
     public void successfulLogin() {
+        homePage.open();
+        loginPage.open();
         loginPage.login("tesztelek21@mail.com", "Elek21");
 
         assertThat(driver.getTitle()).isEqualTo("My Account");
@@ -22,6 +24,8 @@ public class TC03_TC04_LoginTests extends BaseTest {
     @Description("Unsuccessful user login with wrong email form")
     @Test
     public void unsuccessfulLogin() {
+        homePage.open();
+        loginPage.open();
         loginPage.login("tesztelek21mail.com", "Elek21");
 
         assertThat(loginPage.getWarningNoMatchForEmail().getText())

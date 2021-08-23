@@ -1,0 +1,273 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Your store webshop user using",
+    "children" : [ {
+      "name" : "User registration",
+      "children" : [ {
+        "name" : "Successful Registration",
+        "children" : [ {
+          "name" : "successfulRegister()",
+          "uid" : "4ad1d7b0253ba38e",
+          "parentUid" : "271bb1150f2e480f33b1d934056a434a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681947021,
+            "stop" : 1629681952090,
+            "duration" : 5069
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "271bb1150f2e480f33b1d934056a434a"
+      }, {
+        "name" : "Unsuccessful Registration",
+        "children" : [ {
+          "name" : "unsuccessfulRegister()",
+          "uid" : "cdc0a9a822baee57",
+          "parentUid" : "4e705f0c86cbd4cc76a018d1b65f6a24",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629681952216,
+            "stop" : 1629681952973,
+            "duration" : 757
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4e705f0c86cbd4cc76a018d1b65f6a24"
+      }, {
+        "name" : "Privacy Policy handling",
+        "children" : [ {
+          "name" : "openAndCheckPrivacyPolicy()",
+          "uid" : "c47d452a66a4f41f",
+          "parentUid" : "3f4e90e006730e34a5baa7886b978e8f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681961098,
+            "stop" : 1629681962852,
+            "duration" : 1754
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3f4e90e006730e34a5baa7886b978e8f"
+      } ],
+      "uid" : "9c889d16d34cbecbf970f16cb3a317ee"
+    }, {
+      "name" : "User login",
+      "children" : [ {
+        "name" : "Unsuccessful Login",
+        "children" : [ {
+          "name" : "unsuccessfulLogin()",
+          "uid" : "c3896869e29aa6d7",
+          "parentUid" : "115f526f8078a875340f44c63d947979",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681954882,
+            "stop" : 1629681958165,
+            "duration" : 3283
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "115f526f8078a875340f44c63d947979"
+      }, {
+        "name" : "Successful Login",
+        "children" : [ {
+          "name" : "successfulLogin()",
+          "uid" : "4e8546aa64f551ef",
+          "parentUid" : "7ea2746fcf00b11b7606f0bd5a04cc79",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681958170,
+            "stop" : 1629681959070,
+            "duration" : 900
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7ea2746fcf00b11b7606f0bd5a04cc79"
+      } ],
+      "uid" : "931fa35324f5d4d9df83bc37184fde86"
+    }, {
+      "name" : "Data listing",
+      "children" : [ {
+        "name" : "Listing all products",
+        "children" : [ {
+          "name" : "listingDesktopsProducts()",
+          "uid" : "5fb0516d7a18188c",
+          "parentUid" : "683f982230ea869c10395c0d67b7355b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681964787,
+            "stop" : 1629681966063,
+            "duration" : 1276
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "683f982230ea869c10395c0d67b7355b"
+      }, {
+        "name" : "Listing more products using pagination",
+        "children" : [ {
+          "name" : "goTo2ndPage()",
+          "uid" : "8c67db48c26fd97a",
+          "parentUid" : "678d0004d27f7f0893b5803945539137",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681968089,
+            "stop" : 1629681969670,
+            "duration" : 1581
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "678d0004d27f7f0893b5803945539137"
+      } ],
+      "uid" : "7e9638e590ec09ff872830bba9431c18"
+    }, {
+      "name" : "Input New Data",
+      "children" : [ {
+        "name" : "Add a new address to user",
+        "children" : [ {
+          "name" : "addNewAddress()",
+          "uid" : "84eaba44177cba99",
+          "parentUid" : "9c06d493898ee67c87833efd1d3882ec",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681971629,
+            "stop" : 1629681975116,
+            "duration" : 3487
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9c06d493898ee67c87833efd1d3882ec"
+      } ],
+      "uid" : "a46df71648a0171fd14f917fef1b87bf"
+    }, {
+      "name" : "Input repetitiv data",
+      "children" : [ {
+        "name" : "Add more address to user",
+        "children" : [ {
+          "name" : "[1] Lajos;Nagy;Kerekes utca 7;Budapest;1145;Hungary",
+          "uid" : "c11aa94caeeeb0ca",
+          "parentUid" : "833688f6ace4201f028661f610efdf0b",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629681977227,
+            "stop" : 1629681977266,
+            "duration" : 39
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[2] Alajos;Kis;Egyenes ter 3;Debrecen;4141;Hungary",
+          "uid" : "81e73f797bdfe4a5",
+          "parentUid" : "833688f6ace4201f028661f610efdf0b",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629681977357,
+            "stop" : 1629681977363,
+            "duration" : 6
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[3] Katica;Keleti;Patakpart 1;Miskolc;3739;Hungary",
+          "uid" : "4619c34e5137a683",
+          "parentUid" : "833688f6ace4201f028661f610efdf0b",
+          "status" : "broken",
+          "time" : {
+            "start" : 1629681977373,
+            "stop" : 1629681977377,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "833688f6ace4201f028661f610efdf0b"
+      } ],
+      "uid" : "0618f35e274c56f2f666c4fa3af9e368"
+    }, {
+      "name" : "Data handling",
+      "children" : [ {
+        "name" : "Change login password",
+        "children" : [ {
+          "name" : "loginPasswordChangeSuccessful()",
+          "uid" : "e6e5b09c7e777062",
+          "parentUid" : "2185ccd12f60f86db101e482ab88e930",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681979381,
+            "stop" : 1629681981974,
+            "duration" : 2593
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2185ccd12f60f86db101e482ab88e930"
+      }, {
+        "name" : "Address delete from user account",
+        "children" : [ {
+          "name" : "deletingAddress()",
+          "uid" : "7a93bf99ec6ac3",
+          "parentUid" : "2ebe491d71c2ee0ef7b29d94fe4e0bf6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681983943,
+            "stop" : 1629681985984,
+            "duration" : 2041
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2ebe491d71c2ee0ef7b29d94fe4e0bf6"
+      } ],
+      "uid" : "2d2c117c73aab246d2fa15f66e007541"
+    }, {
+      "name" : "Save data from application",
+      "children" : [ {
+        "name" : "Save the names of the products",
+        "children" : [ {
+          "name" : "savingProductsName()",
+          "uid" : "8cc38295f73162bd",
+          "parentUid" : "86e8fdd91586abde1882706b7bf46b25",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681987980,
+            "stop" : 1629681989413,
+            "duration" : 1433
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "86e8fdd91586abde1882706b7bf46b25"
+      } ],
+      "uid" : "89f2eb85abf635faddbb11fbc2335278"
+    }, {
+      "name" : "Logout",
+      "children" : [ {
+        "name" : "Logout of use",
+        "children" : [ {
+          "name" : "deletingAddress()",
+          "uid" : "40def0c19b743f6b",
+          "parentUid" : "903cedb447460be9f0ee9867d986910f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629681991411,
+            "stop" : 1629681993435,
+            "duration" : 2024
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "903cedb447460be9f0ee9867d986910f"
+      } ],
+      "uid" : "604f847f8975d59acaf114db549836e4"
+    } ],
+    "uid" : "c9311f5689491e72105bb6c9b29037ec"
+  } ],
+  "name" : "behaviors"
+}

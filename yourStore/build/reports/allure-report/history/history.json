@@ -1,0 +1,291 @@
+{
+  "22d0c65f8a9b37837de16cd70aaa64e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a93bf99ec6ac3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681983943,
+        "stop" : 1629681985984,
+        "duration" : 2041
+      }
+    } ]
+  },
+  "c184eab70fb6df321a2711e3b77ef104" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4619c34e5137a683",
+      "status" : "broken",
+      "statusDetails" : "No ParameterResolver registered for parameter [java.lang.String arg1] in method [public void TC09_RepetitivDataInputTest.addNewAddresses(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)].",
+      "time" : {
+        "start" : 1629681977373,
+        "stop" : 1629681977377,
+        "duration" : 4
+      }
+    } ]
+  },
+  "a6aed8865238aa80af7b46116c495842" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fb0516d7a18188c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681964787,
+        "stop" : 1629681966063,
+        "duration" : 1276
+      }
+    } ]
+  },
+  "7a62c770664e00af8f65fa63cd939a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c67db48c26fd97a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681968089,
+        "stop" : 1629681969670,
+        "duration" : 1581
+      }
+    } ]
+  },
+  "cc4a72bdbab131ab6ec5a9ea272a22e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ad1d7b0253ba38e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681947021,
+        "stop" : 1629681952090,
+        "duration" : 5069
+      }
+    } ]
+  },
+  "15077dede7682a50f36eb14afe2ce340" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81e73f797bdfe4a5",
+      "status" : "broken",
+      "statusDetails" : "No ParameterResolver registered for parameter [java.lang.String arg1] in method [public void TC09_RepetitivDataInputTest.addNewAddresses(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)].",
+      "time" : {
+        "start" : 1629681977357,
+        "stop" : 1629681977363,
+        "duration" : 6
+      }
+    } ]
+  },
+  "38d60d8c83a0cf24589bddae7d3e022" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6e5b09c7e777062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681979381,
+        "stop" : 1629681981974,
+        "duration" : 2593
+      }
+    } ]
+  },
+  "378ee84cbecf84711967cdae0f7c3e2d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c47d452a66a4f41f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681961098,
+        "stop" : 1629681962852,
+        "duration" : 1754
+      }
+    } ]
+  },
+  "94170937659006a11a8452d11343f62e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40def0c19b743f6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681991411,
+        "stop" : 1629681993435,
+        "duration" : 2024
+      }
+    } ]
+  },
+  "86419ebc267be44930b9a3727b3a7130" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3896869e29aa6d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681954882,
+        "stop" : 1629681958165,
+        "duration" : 3283
+      }
+    } ]
+  },
+  "659917a805ee89565f68ece71e8e5f38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdc0a9a822baee57",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#input\\-firstname\"}\n  (Session info: chrome=92.0.4515.159)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MSI', ip: '172.20.240.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\\Users\\barto\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65426}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9c2993d592446646a60ef1b46b201a01\n*** Element info: {Using=id, value=input-firstname}",
+      "time" : {
+        "start" : 1629681952216,
+        "stop" : 1629681952973,
+        "duration" : 757
+      }
+    } ]
+  },
+  "9e0164c9aec4a1184eaf6dd814652bf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c11aa94caeeeb0ca",
+      "status" : "broken",
+      "statusDetails" : "No ParameterResolver registered for parameter [java.lang.String arg1] in method [public void TC09_RepetitivDataInputTest.addNewAddresses(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)].",
+      "time" : {
+        "start" : 1629681977227,
+        "stop" : 1629681977266,
+        "duration" : 39
+      }
+    } ]
+  },
+  "2f3cfffee263390715e2426dd8bed66f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84eaba44177cba99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681971629,
+        "stop" : 1629681975116,
+        "duration" : 3487
+      }
+    } ]
+  },
+  "7276d1c692a0fb8f893f1161bca54802" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e8546aa64f551ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681958170,
+        "stop" : 1629681959070,
+        "duration" : 900
+      }
+    } ]
+  },
+  "8793523b6a4f6c810bc539cce3da04f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cc38295f73162bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629681987980,
+        "stop" : 1629681989413,
+        "duration" : 1433
+      }
+    } ]
+  }
+}

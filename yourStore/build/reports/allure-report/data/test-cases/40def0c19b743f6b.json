@@ -1,0 +1,66 @@
+{
+  "uid" : "40def0c19b743f6b",
+  "name" : "deletingAddress()",
+  "fullName" : "TC13_LogoutTest.deletingAddress",
+  "historyId" : "94170937659006a11a8452d11343f62e",
+  "time" : {
+    "start" : 1629681991411,
+    "stop" : 1629681993435,
+    "duration" : 2024
+  },
+  "description" : "Successful logout of the user, after login.",
+  "descriptionHtml" : "<p>Successful logout of the user, after login.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Logout"
+  }, {
+    "name" : "epic",
+    "value" : "Your store webshop user using"
+  }, {
+    "name" : "story",
+    "value" : "Logout of use"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "8684@MSI.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TC13_LogoutTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TC13_LogoutTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deletingAddress"
+  }, {
+    "name" : "suite",
+    "value" : "TC13_LogoutTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40def0c19b743f6b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#input\\-firstname\"}\n  (Session info: chrome=92.0.4515.159)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MSI', ip: '172.20.240.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\\Users\\barto\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65426}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9c2993d592446646a60ef1b46b201a01\n*** Element info: {Using=id, value=input-firstname}",
+      "children" : [ {
+        "name" : "unsuccessfulRegister()",
+        "uid" : "cdc0a9a822baee57",
+        "parentUid" : "da91f971dbabb1eebb2e62de27fffbc2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681952216,
+          "stop" : 1629681952973,
+          "duration" : 757
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da91f971dbabb1eebb2e62de27fffbc2"
+    }, {
+      "name" : "No ParameterResolver registered for parameter [java.lang.String arg1] in method [public void TC09_RepetitivDataInputTest.addNewAddresses(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)].",
+      "children" : [ {
+        "name" : "[1] Lajos;Nagy;Kerekes utca 7;Budapest;1145;Hungary",
+        "uid" : "c11aa94caeeeb0ca",
+        "parentUid" : "35eec9cd26fc9aebd9f5604a413da997",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977227,
+          "stop" : 1629681977266,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] Alajos;Kis;Egyenes ter 3;Debrecen;4141;Hungary",
+        "uid" : "81e73f797bdfe4a5",
+        "parentUid" : "35eec9cd26fc9aebd9f5604a413da997",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977357,
+          "stop" : 1629681977363,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] Katica;Keleti;Patakpart 1;Miskolc;3739;Hungary",
+        "uid" : "4619c34e5137a683",
+        "parentUid" : "35eec9cd26fc9aebd9f5604a413da997",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977373,
+          "stop" : 1629681977377,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35eec9cd26fc9aebd9f5604a413da997"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

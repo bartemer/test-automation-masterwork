@@ -2,8 +2,8 @@ Pages/PasswordModificationPage.java
  Pages.PasswordModificationPage
 Pages/HomePage.java
  Pages.HomePage
-Pages/AddressesInputPage.java
- Pages.AddressesInputPage
+TC08_DataInputTest.java
+ TC08_DataInputTest
 TC10_ExistingDataModification.java
  TC10_ExistingDataModification
 Pages/AddressBookPage.java
@@ -40,5 +40,5 @@ TC12_SavingDataFromApplication.java
  TC12_SavingDataFromApplication
 BaseTest.java
  BaseTest
-TC08_DataInputTest.java
- TC08_DataInputTest
+Pages/AddressesInputPage.java
+ Pages.AddressesInputPage

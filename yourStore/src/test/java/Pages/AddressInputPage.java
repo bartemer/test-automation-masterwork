@@ -58,7 +58,7 @@ public class AddressInputPage extends BasePage {
         addressInputField.sendKeys(address);
         cityInputField.sendKeys(city);
         postcodeInputField.sendKeys(postcode);
-        Select selectCountry = new Select(driver.findElement(By.id("input-country")));
+        Select selectCountry = new Select(countryToSelect);
         selectCountry.selectByVisibleText(country);
         wait.until(ExpectedConditions.elementToBeClickable(continueButton));
         continueButton.click();

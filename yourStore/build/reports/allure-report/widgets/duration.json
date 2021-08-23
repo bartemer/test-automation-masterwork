@@ -1,0 +1,151 @@
+[ {
+  "uid" : "7a93bf99ec6ac3",
+  "name" : "deletingAddress()",
+  "time" : {
+    "start" : 1629681983943,
+    "stop" : 1629681985984,
+    "duration" : 2041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c67db48c26fd97a",
+  "name" : "goTo2ndPage()",
+  "time" : {
+    "start" : 1629681968089,
+    "stop" : 1629681969670,
+    "duration" : 1581
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cc38295f73162bd",
+  "name" : "savingProductsName()",
+  "time" : {
+    "start" : 1629681987980,
+    "stop" : 1629681989413,
+    "duration" : 1433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fb0516d7a18188c",
+  "name" : "listingDesktopsProducts()",
+  "time" : {
+    "start" : 1629681964787,
+    "stop" : 1629681966063,
+    "duration" : 1276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40def0c19b743f6b",
+  "name" : "deletingAddress()",
+  "time" : {
+    "start" : 1629681991411,
+    "stop" : 1629681993435,
+    "duration" : 2024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3896869e29aa6d7",
+  "name" : "unsuccessfulLogin()",
+  "time" : {
+    "start" : 1629681954882,
+    "stop" : 1629681958165,
+    "duration" : 3283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4619c34e5137a683",
+  "name" : "[3] Katica;Keleti;Patakpart 1;Miskolc;3739;Hungary",
+  "time" : {
+    "start" : 1629681977373,
+    "stop" : 1629681977377,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cdc0a9a822baee57",
+  "name" : "unsuccessfulRegister()",
+  "time" : {
+    "start" : 1629681952216,
+    "stop" : 1629681952973,
+    "duration" : 757
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "81e73f797bdfe4a5",
+  "name" : "[2] Alajos;Kis;Egyenes ter 3;Debrecen;4141;Hungary",
+  "time" : {
+    "start" : 1629681977357,
+    "stop" : 1629681977363,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e6e5b09c7e777062",
+  "name" : "loginPasswordChangeSuccessful()",
+  "time" : {
+    "start" : 1629681979381,
+    "stop" : 1629681981974,
+    "duration" : 2593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c47d452a66a4f41f",
+  "name" : "openAndCheckPrivacyPolicy()",
+  "time" : {
+    "start" : 1629681961098,
+    "stop" : 1629681962852,
+    "duration" : 1754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e8546aa64f551ef",
+  "name" : "successfulLogin()",
+  "time" : {
+    "start" : 1629681958170,
+    "stop" : 1629681959070,
+    "duration" : 900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84eaba44177cba99",
+  "name" : "addNewAddress()",
+  "time" : {
+    "start" : 1629681971629,
+    "stop" : 1629681975116,
+    "duration" : 3487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ad1d7b0253ba38e",
+  "name" : "successfulRegister()",
+  "time" : {
+    "start" : 1629681947021,
+    "stop" : 1629681952090,
+    "duration" : 5069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c11aa94caeeeb0ca",
+  "name" : "[1] Lajos;Nagy;Kerekes utca 7;Budapest;1145;Hungary",
+  "time" : {
+    "start" : 1629681977227,
+    "stop" : 1629681977266,
+    "duration" : 39
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

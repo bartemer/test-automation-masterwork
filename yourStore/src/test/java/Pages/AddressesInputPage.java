@@ -40,7 +40,7 @@ public class AddressesInputPage extends BasePage {
     @FindBy(xpath = "//*[@id=\"content\"]/form/div/div[2]/input")
     WebElement continueButton;
 
-    @FindBy(xpath = "//*[@id=\"account-address\"]/div[1]/text()")
+    @FindBy(xpath = "//*[@id=\"account-address\"]/div[1]")
     WebElement successMessage;
 
     public void addNewAddresses(String firstName, String lastName, String address, String city, String postcode, String country) {

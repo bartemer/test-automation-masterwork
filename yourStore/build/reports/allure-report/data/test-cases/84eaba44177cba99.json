@@ -1,0 +1,66 @@
+{
+  "uid" : "84eaba44177cba99",
+  "name" : "addNewAddress()",
+  "fullName" : "TC08_DataInputTest.addNewAddress",
+  "historyId" : "2f3cfffee263390715e2426dd8bed66f",
+  "time" : {
+    "start" : 1629681971629,
+    "stop" : 1629681975116,
+    "duration" : 3487
+  },
+  "description" : "Add a new address to a registered user",
+  "descriptionHtml" : "<p>Add a new address to a registered user</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Your store webshop user using"
+  }, {
+    "name" : "feature",
+    "value" : "Input New Data"
+  }, {
+    "name" : "story",
+    "value" : "Add a new address to user"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "8684@MSI.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TC08_DataInputTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TC08_DataInputTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addNewAddress"
+  }, {
+    "name" : "suite",
+    "value" : "TC08_DataInputTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84eaba44177cba99.json",
+  "parameterValues" : [ ]
+}

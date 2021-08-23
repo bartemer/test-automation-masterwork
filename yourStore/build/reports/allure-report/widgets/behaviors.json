@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "c9311f5689491e72105bb6c9b29037ec",
+    "name" : "Your store webshop user using",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

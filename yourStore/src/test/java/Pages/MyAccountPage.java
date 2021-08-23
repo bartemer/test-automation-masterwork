@@ -25,6 +25,10 @@ public class MyAccountPage extends BasePage {
         driver.get(baseURL);
     }
 
+    public WebElement getAddressBookLink() {
+        return addressBookLink;
+    }
+
     public void goToAddressBook () {
         addressBookLink.click();
     }

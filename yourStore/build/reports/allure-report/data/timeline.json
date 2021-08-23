@@ -1,0 +1,193 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "MSI",
+    "children" : [ {
+      "name" : "8684@MSI.Test worker(12)",
+      "children" : [ {
+        "name" : "deletingAddress()",
+        "uid" : "7a93bf99ec6ac3",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681983943,
+          "stop" : 1629681985984,
+          "duration" : 2041
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "goTo2ndPage()",
+        "uid" : "8c67db48c26fd97a",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681968089,
+          "stop" : 1629681969670,
+          "duration" : 1581
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "savingProductsName()",
+        "uid" : "8cc38295f73162bd",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681987980,
+          "stop" : 1629681989413,
+          "duration" : 1433
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "listingDesktopsProducts()",
+        "uid" : "5fb0516d7a18188c",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681964787,
+          "stop" : 1629681966063,
+          "duration" : 1276
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deletingAddress()",
+        "uid" : "40def0c19b743f6b",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681991411,
+          "stop" : 1629681993435,
+          "duration" : 2024
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "unsuccessfulLogin()",
+        "uid" : "c3896869e29aa6d7",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681954882,
+          "stop" : 1629681958165,
+          "duration" : 3283
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] Katica;Keleti;Patakpart 1;Miskolc;3739;Hungary",
+        "uid" : "4619c34e5137a683",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977373,
+          "stop" : 1629681977377,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "unsuccessfulRegister()",
+        "uid" : "cdc0a9a822baee57",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681952216,
+          "stop" : 1629681952973,
+          "duration" : 757
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] Alajos;Kis;Egyenes ter 3;Debrecen;4141;Hungary",
+        "uid" : "81e73f797bdfe4a5",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977357,
+          "stop" : 1629681977363,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPasswordChangeSuccessful()",
+        "uid" : "e6e5b09c7e777062",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681979381,
+          "stop" : 1629681981974,
+          "duration" : 2593
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openAndCheckPrivacyPolicy()",
+        "uid" : "c47d452a66a4f41f",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681961098,
+          "stop" : 1629681962852,
+          "duration" : 1754
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "successfulLogin()",
+        "uid" : "4e8546aa64f551ef",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681958170,
+          "stop" : 1629681959070,
+          "duration" : 900
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addNewAddress()",
+        "uid" : "84eaba44177cba99",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681971629,
+          "stop" : 1629681975116,
+          "duration" : 3487
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "successfulRegister()",
+        "uid" : "4ad1d7b0253ba38e",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629681947021,
+          "stop" : 1629681952090,
+          "duration" : 5069
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] Lajos;Nagy;Kerekes utca 7;Budapest;1145;Hungary",
+        "uid" : "c11aa94caeeeb0ca",
+        "parentUid" : "2ab485608a5fbffe47b8350b68d47127",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629681977227,
+          "stop" : 1629681977266,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ab485608a5fbffe47b8350b68d47127"
+    } ],
+    "uid" : "4e235fbd4c199973bc00f3dda2ae852d"
+  } ],
+  "name" : "timeline"
+}

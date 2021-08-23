@@ -1,0 +1,66 @@
+{
+  "uid" : "8cc38295f73162bd",
+  "name" : "savingProductsName()",
+  "fullName" : "TC12_SavingDataFromApplication.savingProductsName",
+  "historyId" : "8793523b6a4f6c810bc539cce3da04f1",
+  "time" : {
+    "start" : 1629681987980,
+    "stop" : 1629681989413,
+    "duration" : 1433
+  },
+  "description" : "Save the names of all products into a text file",
+  "descriptionHtml" : "<p>Save the names of all products into a text file</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Save data from application"
+  }, {
+    "name" : "epic",
+    "value" : "Your store webshop user using"
+  }, {
+    "name" : "story",
+    "value" : "Save the names of the products"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "8684@MSI.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TC12_SavingDataFromApplication"
+  }, {
+    "name" : "testClass",
+    "value" : "TC12_SavingDataFromApplication"
+  }, {
+    "name" : "testMethod",
+    "value" : "savingProductsName"
+  }, {
+    "name" : "suite",
+    "value" : "TC12_SavingDataFromApplication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cc38295f73162bd.json",
+  "parameterValues" : [ ]
+}

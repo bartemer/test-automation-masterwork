@@ -16,8 +16,10 @@ import org.junit.jupiter.api.Test;
     @Description("Successful user account registration with valid data")
     @Test
     public void successfulRegister() {
+        homePage.open();
+        registrationPage.open();
         registrationPage.register("Elek", "Teszt", email, "06202342340",
-                "Elek21", "Elek21");
+                "Elek41", "Elek41");
 
         assertThat(driver.getTitle()).isEqualTo("Your Account Has Been Created!");
     }
@@ -26,8 +28,10 @@ import org.junit.jupiter.api.Test;
     @Description("Unsuccessful user account registration with existing email address")
     @Test
     public void unsuccessfulRegister() {
-        registrationPage.register("Elek", "Teszt", "tesztelek@mail.com", "06202342340",
-                "Elek21", "Elek21");
+        homePage.open();
+        registrationPage.open();
+        registrationPage.register("Elek", "Teszt", "tesztelek21@mail.com", "06202342340",
+                "Elek31", "Elek31");
 
         assertThat(registrationPage.getWarningAlreadyRegisteredEmail().getText())
                 .isEqualTo("Warning: E-Mail Address is already registered!");
